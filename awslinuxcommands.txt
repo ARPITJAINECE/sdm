@@ -1,4 +1,6 @@
 AWS Workflow
+
+
 1. Navigate to www.google.com/search?q=aws&oq=&aqs=chr... 2. Click "Cloud Computing Services - Amazon Web Services (AWS)"2
 3. Click "Sign In"
 4. Click the "username@example.com" field.3
